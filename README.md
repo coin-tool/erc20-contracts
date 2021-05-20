@@ -1,2 +1,9 @@
+## erc20-contracts
 
-本地测试可在truffle-config.js配置development
+ERC20代币合约
+
+```
+git clone https://github.com/coin-tool/erc20-contracts
+npm install
+npm run migrate
+```
